@@ -1,0 +1,59 @@
+baseURL = "/"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "Ross Markello"
+theme = "hermit"
+pygmentsCodefences  = true
+pygmentsUseClasses  = true
+rssLimit = 10
+copyright = " "
+enableEmoji = true
+# googleAnalytics = "UA-123-45"
+
+[author]
+  name = "Ross Markello"
+
+[taxonomies]
+  tag = "tags"
+
+[params]
+  dateform = "Jan 2, 2006"
+  dateformShort = "Jan 2"
+  dateformNum = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+  themeColor = "#494f5c"
+  homeSubtitle = "Graduate student at the Montreal Neurological Institute"
+  footerCopyright = " "
+  justifyContent = false
+  relatedPosts = false
+  code_copy_button = true
+
+  [[params.social]]
+    name = "email"
+    url = "mailto:rossmarkello@gmail.com"
+
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/rossdavism"
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/rmarkello"
+
+[menu]
+
+  [[menu.main]]
+    name = "About"
+    url = "about"
+    weight = 10
+
+#   [[menu.main]]
+#     name = "CV"
+#     url = "cv"
+#     weight = 20
+
+#   [[menu.main]]
+#     name = "Posts"
+#     url = "posts/"
+#     weight = 30
+
