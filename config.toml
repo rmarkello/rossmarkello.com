@@ -8,7 +8,7 @@ pygmentsUseClasses  = true
 rssLimit = 10
 copyright = " "
 enableEmoji = true
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-153162418-1"
 
 [author]
   name = "Ross Markello"
