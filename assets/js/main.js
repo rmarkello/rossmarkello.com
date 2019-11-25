@@ -53,14 +53,14 @@ const toggleMobileMenu = () => {
   let mobileMenu = document.getElementById('mobile-menu');
   let bottom = document.getElementById('site-header').clientHeight + 'px';
   if (mobileMenuVisible == false) {
-    mobileMenu.style.animationName = 'bounceInRight';
-    mobileMenu.style.webkitAnimationName = 'bounceInRight';
+    mobileMenu.style.animationName = 'slideInRight';
+    mobileMenu.style.webkitAnimationName = 'slideInRight';
     mobileMenu.style.display = 'block';
     mobileMenu.style.bottom = bottom;
     mobileMenuVisible = true;
   } else {
-    mobileMenu.style.animationName = 'bounceOutRight';
-    mobileMenu.style.webkitAnimationName = 'bounceOutRight'
+    mobileMenu.style.animationName = 'slideOutRight';
+    mobileMenu.style.webkitAnimationName = 'slideOutRight'
     mobileMenuVisible = false;
   }
 }
