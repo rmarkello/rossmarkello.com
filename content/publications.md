@@ -2,6 +2,10 @@
 title: "Publications"
 ---
 
+## 2020
+
+Suárez, L. E., <span style="text-decoration:underline">**Markello, R. D.**</span>, Betzel, R. F., & Misic, B. (2020). Linking structure and function in macroscale brain networks. *Trends in Cognitive Sciences.* doi:[10.1016/j.tics.2020.01.008](https://doi.org/10.1016/j.tics.2020.01.008).
+
 ## 2019
 
 Shafiei, G., <span style="text-decoration:underline">**Markello, R. D.**</span>, Makowski, C., Talpalaru, A., Kirschner, M., Devenyi, G. A., Guma, E., Hagmann, P., Cashman, N.R., Lepage, M., Chakravarty, M. M., Dagher, A., & Mišić, B. (2019). Spatial patterning of tissue volume loss in schizophrenia reflects brain network architecture. *Biological Psychiatry*. doi:[10.1016/j.biopsych/2019.09.031](https://doi.org/10.1016/j.biopsych.2019.09.031).
