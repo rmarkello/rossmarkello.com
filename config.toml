@@ -57,3 +57,6 @@ googleAnalytics = "UA-153162418-1"
     url = "posts/"
     weight = 30
 
+
+[markup.goldmark.renderer]
+  unsafe= true
