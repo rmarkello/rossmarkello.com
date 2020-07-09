@@ -53,10 +53,17 @@ googleAnalytics = "UA-153162418-1"
     weight = 20
 
   [[menu.main]]
-    name = "Blog"
-    url = "posts/"
+    name = "CV"
+    url = "cv"
     weight = 30
 
+  [[menu.main]]
+    name = "Blog"
+    url = "posts/"
+    weight = 40
 
 [markup.goldmark.renderer]
-  unsafe= true
+  unsafe = true
+
+[blackfriday]
+  fractions = false
