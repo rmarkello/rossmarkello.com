@@ -4,7 +4,9 @@ title: "Publications & preprints"
 
 ## 2020
 
-**<span style="text-decoration:underline">Markello, R. D.</span>**, Shafiei, G., Tremblay, C., Postuma, R. B., Dagher, A., & Misic, B. (2020). Integrated morphometric, molecular, and clinical characterization of Parkinson’s disease pathology. *Biorxiv*. doi:[10.1101/2020.03.05.979526](https://doi.org/10.1101/2020.03.05.979526)
+Shafiei, G., **<span style="text-decoration:underline">Markello, R. D.</span>**, Vos de Wael, R., Bernhardt, B. C., Fulcher, B.D., & Misic, B. (2020). Topographic gradients of intrinsic dynamics across neocortex. *Biorxiv*. doi:[10.1101/2020.07.03.186916](https://doi.org/10.1101/2020.07.03.186916)
+
+**<span style="text-decoration:underline">Markello, R. D.</span>**, Shafiei, G., Tremblay, C., Postuma, R. B., Dagher, A., & Misic, B. (2020). Integrated morphometric, molecular, and clinical characterization of Parkinson’s disease pathology. *Biorxiv*. doi:[10.1101/2020.03.05.979526](https://doi.org/10.1101/2020.03.05.979526). ([GitHub](https://github.com/netneurolab/markello_ppmisnf))
 
 Kirschner, M., Shafiei, G., **<span style="text-decoration:underline">Markello, R. D.</span>**, Makowski, C., Talpalaru, A., Hodzic-Santor, B., Devenyi, G., Paquola, C., Bernhardt, B., Lepage, M., Chakravarty, M. M, Dagher, A., \& Misic, B. (2020). Latent clinical-anatomical dimensions of schizophrenia. *medRxiv*. doi:[10.1101/2020.03.25.20040592](https://doi.org/10.1101/2020.03.25.20040592).
 
