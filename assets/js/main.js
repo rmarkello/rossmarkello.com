@@ -32,6 +32,7 @@ const listen = (ele, e, callback) => {
 //
 let header = document.getElementById('site-header');
 let lastScrollPosition = window.pageYOffset;
+let referrer = document.referrer;
 
 const autoHideHeader = () => {
   let currentScrollPosition = Math.max(window.pageYOffset, 0);
@@ -87,6 +88,12 @@ if (header !== null) {
   listen('#toc-btn', "click", toggleToc);
   listen('#img-btn', "click", showImg);
   listen('.bg-img', "click", hideImg);
+
+  let _domain = "https://rossmarkello.com/";
+  if (document.referrer.includes(_domain)
+      & ! document.referrer.endsWith(_domain)) {
+    header.classList.remove('slideInUp');
+  }
 
   document.querySelectorAll('.post-year').forEach((ele)=> {
     ele.addEventListener('click', () => {
