@@ -57,10 +57,10 @@ googleAnalytics = "UA-153162418-1"
     url = "cv"
     weight = 30
 
-  [[menu.main]]
-    name = "Blog"
-    url = "posts/"
-    weight = 40
+#   [[menu.main]]
+#     name = "Blog"
+#     url = "posts/"
+#     weight = 40
 
 [markup.goldmark.renderer]
   unsafe = true
