@@ -2,6 +2,10 @@
 title: "Publications & preprints"
 ---
 
+## 2021
+
+**<span style="text-decoration:underline">Markello, RD</span>**, Shafiei, G, Tremblay, C, Postuma, RB, Dagher, A, & Misic, B (2021). Multimodal phenotypic axes of Parkinson's disease. *NPJ Parkinson's disease*, *7*(1), 1-12. doi:[10.1101/2020.03.05.979526](https://doi.org/10.1038/s41531-020-00144-9). ([Code and data](https://github.com/netneurolab/markello_ppmisnf))
+
 ## 2020
 
 **<span style="text-decoration:underline">Markello, RD</span>** & Misic, B (2020). Comparing spatially-constrained null models for parcellated brain maps. *Biorxiv*. doi:[10.1101/2020.08.13.249797](https://doi.org/10.1101/2020.08.13.249797). ([Code and data](https://github.com/netneurolab/markello_spatialnulls))
@@ -10,9 +14,7 @@ Hansen, J, **<span style="text-decoration:underline">Markello, RD</span>**, Voge
 
 Shafiei, G, **<span style="text-decoration:underline">Markello, RD</span>**, Vos de Wael, R, Bernhardt, BC, Fulcher, BD, & Misic, B (2020). Topographic gradients of intrinsic dynamics across neocortex. *Biorxiv*. doi:[10.1101/2020.07.03.186916](https://doi.org/10.1101/2020.07.03.186916).
 
-**<span style="text-decoration:underline">Markello, RD</span>**, Shafiei, G, Tremblay, C, Postuma, RB, Dagher, A, & Misic, B (2020). Multimodal phenotypic axes of Parkinson's disease. *Biorxiv*. doi:[10.1101/2020.03.05.979526](https://doi.org/10.1101/2020.03.05.979526). ([Code and data](https://github.com/netneurolab/markello_ppmisnf))
-
-Kirschner, M<sup>†</sup>, Shafiei, G<sup>†</sup>, **<span style="text-decoration:underline">Markello, RD</span>**, Makowski, C, Talpalaru, A, Hodzic-Santor, B, Devenyi, G, Paquola, C, Bernhardt, B, Lepage, M, Chakravarty, MM, Dagher, A<sup>†</sup>, \& Misic, B<sup>†</sup> (2020). Latent clinical-anatomical dimensions of schizophrenia. *Schizophrenia Bulletin*. doi:[10.1093/schbul/sbaa097](https://doi.org/10.1093/schbul/sbaa097).
+Kirschner, M<sup>†</sup>, Shafiei, G<sup>†</sup>, **<span style="text-decoration:underline">Markello, RD</span>**, Makowski, C, Talpalaru, A, Hodzic-Santor, B, Devenyi, G, Paquola, C, Bernhardt, B, Lepage, M, Chakravarty, MM, Dagher, A<sup>†</sup>, \& Misic, B<sup>†</sup> (2020). Latent clinical-anatomical dimensions of schizophrenia. *Schizophrenia Bulletin*, *46*(6), 1426-1438. doi:[10.1093/schbul/sbaa097](https://doi.org/10.1093/schbul/sbaa097).
 
 Suárez, LE, **<span style="text-decoration:underline">Markello, RD</span>**, Betzel, RF, & Misic, B (2020). Linking structure and function in macroscale brain networks. *Trends in Cognitive Sciences*, *24*(4), 302-315. doi:[10.1016/j.tics.2020.01.008](https://doi.org/10.1016/j.tics.2020.01.008).
 
