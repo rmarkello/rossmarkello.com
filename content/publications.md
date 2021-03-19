@@ -8,11 +8,11 @@ title: "Publications & preprints"
 
 ## 2020
 
-**<span style="text-decoration:underline">Markello, RD</span>** & Misic, B (2020). Comparing spatially-constrained null models for parcellated brain maps. *Biorxiv*. doi:[10.1101/2020.08.13.249797](https://doi.org/10.1101/2020.08.13.249797). ([Code and data](https://github.com/netneurolab/markello_spatialnulls))
+**<span style="text-decoration:underline">Markello, RD</span>** & Misic, B (2020). Comparing spatial null models for brain maps. *Biorxiv*. doi:[10.1101/2020.08.13.249797](https://doi.org/10.1101/2020.08.13.249797). ([Code and data](https://github.com/netneurolab/markello_spatialnulls))
 
-Hansen, J, **<span style="text-decoration:underline">Markello, RD</span>**, Vogel, JW, Seidlitz, J, Bzdok, D, & Misic, B (2020). Molecular signarures of cognition and affect. *Biorxiv*. doi:[10.1101/2020.07.16.203026](https://doi.org/10.1101/2020.07.16.203026).
+Shafiei, G, **<span style="text-decoration:underline">Markello, RD</span>**, Vos de Wael, R, Bernhardt, BC, Fulcher, BD, & Misic, B (2020). Topographic gradients of intrinsic dynamics across neocortex. *Elife*, *9*, e6211. doi:[10.7554/eLife.62116](https://doi.org/10.7554/eLife.62116).
 
-Shafiei, G, **<span style="text-decoration:underline">Markello, RD</span>**, Vos de Wael, R, Bernhardt, BC, Fulcher, BD, & Misic, B (2020). Topographic gradients of intrinsic dynamics across neocortex. *Biorxiv*. doi:[10.1101/2020.07.03.186916](https://doi.org/10.1101/2020.07.03.186916).
+Hansen, J, **<span style="text-decoration:underline">Markello, RD</span>**, Vogel, JW, Seidlitz, J, Bzdok, D, & Misic, B (2020). Molecular signatures of cognition and affect. *Biorxiv*. doi:[10.1101/2020.07.16.203026](https://doi.org/10.1101/2020.07.16.203026).
 
 Kirschner, M<sup>†</sup>, Shafiei, G<sup>†</sup>, **<span style="text-decoration:underline">Markello, RD</span>**, Makowski, C, Talpalaru, A, Hodzic-Santor, B, Devenyi, G, Paquola, C, Bernhardt, B, Lepage, M, Chakravarty, MM, Dagher, A<sup>†</sup>, \& Misic, B<sup>†</sup> (2020). Latent clinical-anatomical dimensions of schizophrenia. *Schizophrenia Bulletin*, *46*(6), 1426-1438. doi:[10.1093/schbul/sbaa097](https://doi.org/10.1093/schbul/sbaa097).
 
