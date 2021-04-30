@@ -22,7 +22,7 @@ Shafiei G, **<span style="text-decoration:underline">Markello RD</span>** Makows
 
 ## 2019
 
-Vázquez-Rodríguez B, Suárez LE, **<span style="text-decoration:underline">Markello,RD.</span>**, Shafiei G, Paquola C, Hagmann P, van den Heuvel MP, Bernhardt BC, Spreng RN, & Misic B (2019). Gradients of structure–function tethering across neocortex. *Proceedings of the National Academy of Sciences*, *116*(42), 21219-21227. doi:[10.1073/pnas.1903403116](https://doi.org/10.1073/pnas.1903403116). ([Code and data](https://github.com/netneurolab/vazquez-rodriguez_et_al_scfc))
+Vázquez-Rodríguez B, Suárez LE, **<span style="text-decoration:underline">Markello, RD</span>**, Shafiei G, Paquola C, Hagmann P, van den Heuvel MP, Bernhardt BC, Spreng RN, & Misic B (2019). Gradients of structure–function tethering across neocortex. *Proceedings of the National Academy of Sciences*, *116*(42), 21219-21227. doi:[10.1073/pnas.1903403116](https://doi.org/10.1073/pnas.1903403116). ([Code and data](https://github.com/netneurolab/vazquez-rodriguez_et_al_scfc))
 
 Notter M, Gale D, Herholz P, **<span style="text-decoration:underline">Markello RD</span>**, Notter-Bielser ML, & Whitaker K (2019). AtlasReader: A Python package to generate coordinate tables, region labels, and informative figures from statistical MRI images. *Journal of Open Source Software*, *4*(34), 1257. doi:[10.21105/joss.01257](https://doi.org/10.21105/joss.01257). ([Code](https://github.com/miykael/atlasreader/))
 
