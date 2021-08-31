@@ -4,9 +4,13 @@ title: "Publications & preprints"
 
 ## 2021
 
-**<span style="text-decoration:underline">Markello RD</span>** & Misic B (2020). Comparing spatial null models for brain maps. *NeuroImage*, 118052. doi:[10.1016/j.neuroimage.2021.118052](https://doi.org/10.1016/j.neuroimage.2021.118052). ([Code and data](https://github.com/netneurolab/markello_spatialnulls))
+**<span style="text-decoration:underline">Markello RD</span>**, Arnatkevic̆iūtė A, Poline J-B, Fulcher BD, Fornito A, & Misic B (2021). Standardizing workflows in imaging transcriptomics with the `abagen` toolbox. *Biorxiv*. doi:[10.1101/2021.07.08.451635](https://doi.org/10.1101/2021.07.08.451635). ([Code and data](https://github.com/netneurolab/markello_transcriptome))
 
-Hansen J, **<span style="text-decoration:underline">Markello RD</span>**, Vogel JW, Seidlitz J, Bzdok D, & Misic B (2020). Mapping gene transcription and neurocognition across human neocortex. *Nature Human Behavior*, 1-11. doi:[10.1038/s41562-021-01082-z](https://doi.org/10.1038/s41562-021-01082-z).
+Tremblay C, Rahayel S, Vo A, Morys F, Shafiei G, **<span style="text-decoration:underline">Markello RD</span>**, Gan-Or Z, Misic B, & Dagher A (2021). Brain atrophy progression in Parkinson’s disease is shaped by connectivity and local vulnerability. *Medrxiv*. doi:[10.1101/2021.06.08.21258321](https://doi.org/10.1101/2021.06.08.21258321).
+
+**<span style="text-decoration:underline">Markello RD</span>** & Misic B (2021). Comparing spatial null models for brain maps. *NeuroImage*, 118052. doi:[10.1016/j.neuroimage.2021.118052](https://doi.org/10.1016/j.neuroimage.2021.118052). ([Code and data](https://github.com/netneurolab/markello_spatialnulls))
+
+Hansen J, **<span style="text-decoration:underline">Markello RD</span>**, Vogel JW, Seidlitz J, Bzdok D, & Misic B (2021). Mapping gene transcription and neurocognition across human neocortex. *Nature Human Behavior*, 1-11. doi:[10.1038/s41562-021-01082-z](https://doi.org/10.1038/s41562-021-01082-z). ([Code and data](https://github.com/netneurolab/hansen_genescognition))
 
 **<span style="text-decoration:underline">Markello RD</span>**, Shafiei G, Tremblay C, Postuma RB, Dagher A, & Misic B (2021). Multimodal phenotypic axes of Parkinson's disease. *NPJ Parkinson's disease*, *7*(1), 1-12. doi:[10.1101/2020.03.05.979526](https://doi.org/10.1038/s41531-020-00144-9). ([Code and data](https://github.com/netneurolab/markello_ppmisnf))
 
