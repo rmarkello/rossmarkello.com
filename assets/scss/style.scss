@@ -130,6 +130,10 @@ table {
   }
 }
 
+iframe {
+    height: 800px;
+}
+
 .section-inner {
   margin: 0 auto;
   max-width: 1200px;
@@ -900,5 +904,9 @@ hr.post-end {
 
   #mobile-menu {
     right: 0em;
+  }
+
+  iframe {
+    height: 450px;
   }
 }
