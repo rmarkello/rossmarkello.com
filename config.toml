@@ -22,7 +22,7 @@ googleAnalytics = "UA-153162418-1"
   dateformNum = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
   themeColor = "#494f5c"
-  homeSubtitle = "Graduate student at the Montreal Neurological Institute"
+  homeSubtitle = "Data engineer at Octave Biosciences"
   footerCopyright = " "
   justifyContent = false
   relatedPosts = false
@@ -33,12 +33,16 @@ googleAnalytics = "UA-153162418-1"
     url = "mailto:rossmarkello@gmail.com"
 
   [[params.social]]
+    name = "github"
+    url = "https://github.com/rmarkello"
+
+  [[params.social]]
     name = "twitter"
     url = "https://twitter.com/rossdavism"
 
   [[params.social]]
-    name = "github"
-    url = "https://github.com/rmarkello"
+    name = 'linkedin'
+    url = "https://linkedin.com/in/rossmarkello"
 
 [menu]
 
@@ -48,19 +52,14 @@ googleAnalytics = "UA-153162418-1"
     weight = 10
 
   [[menu.main]]
-    name = "Publications"
-    url = "publications"
+    name = "Resume"
+    url = "resume"
     weight = 20
 
   [[menu.main]]
-    name = "CV"
-    url = "cv"
+    name = "Publications"
+    url = "publications"
     weight = 30
-
-#   [[menu.main]]
-#     name = "Blog"
-#     url = "posts/"
-#     weight = 40
 
 [markup.goldmark.renderer]
   unsafe = true
