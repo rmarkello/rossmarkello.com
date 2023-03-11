@@ -37,10 +37,6 @@ googleAnalytics = "UA-153162418-1"
     url = "https://github.com/rmarkello"
 
   [[params.social]]
-    name = "twitter"
-    url = "https://twitter.com/rossdavism"
-
-  [[params.social]]
     name = 'linkedin'
     url = "https://linkedin.com/in/rossmarkello"
 
