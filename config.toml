@@ -22,7 +22,7 @@ googleAnalytics = "UA-153162418-1"
   dateformNum = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
   themeColor = "#494f5c"
-  homeSubtitle = "Data engineer at Komodo Health"
+  homeSubtitle = "Data engineer at 1m"
   footerCopyright = " "
   justifyContent = false
   relatedPosts = false
@@ -52,10 +52,10 @@ googleAnalytics = "UA-153162418-1"
     url = "resume"
     weight = 20
 
-  [[menu.main]]
-    name = "Publications"
-    url = "publications"
-    weight = 30
+  # [[menu.main]]
+  #   name = "Publications"
+  #   url = "publications"
+  #   weight = 30
 
 [markup.goldmark.renderer]
   unsafe = true
